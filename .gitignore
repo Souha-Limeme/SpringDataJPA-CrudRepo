@@ -14,7 +14,7 @@ target/
 .sts4-cache
 .mvn/
 .project
-mvnw.*
+mvnw
 
 ### IntelliJ IDEA ###
 .idea
